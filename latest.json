@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/ehribeiro/WifiReliabilityTool-Releases/releases/download/v1.6.0/WifiReliabilityTool-Setup-1.6.0.exe",
-  "sha256": "36badd533140865da32f06abf6b1734b299f48564b92ea1adaa4c0f8746c421b",
-  "notes": "### Adicionado\n- Relatório HTML com a marca da EDX, gerado ao fim de cada coleta (`report.html` na pasta da execução). Reúne a nota e o Health, a conexão (SSID/BSSID/canal/sinal/roaming), a tabela por destino (perda, RTT mín/médio/máx, jitter), o gráfico embutido e uma conclusão com recomendações automáticas. Abre no navegador e pode ser salvo em PDF por Imprimir → Salvar como PDF.\n- Ao terminar a coleta, o app pergunta se deseja abrir o relatório.\n- O logo `edx_logo.png` (se presente ao lado do executável) aparece no cabeçalho do relatório.",
+  "version": "1.6.1",
+  "url": "https://github.com/ehribeiro/WifiReliabilityTool-Releases/releases/download/v1.6.1/WifiReliabilityTool-Setup-1.6.1.exe",
+  "sha256": "f4f5ceca6d4a79fd67353833563d8a54b404696569e1a4a79fd38eac9dcc5a65",
+  "notes": "### Alterado\n- Versão de teste para validar a atualização automática de ponta a ponta (sem mudanças funcionais).\n\n<!-- A seção de cada versão abaixo é usada como notas do release e no latest.json (publish-release.ps1). -->",
   "mandatory": false
 }
